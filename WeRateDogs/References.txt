@@ -1,0 +1,4 @@
+References
+https://developer.twitter.com/en/docs/api-reference-index
+ http://docs.tweepy.org/en/latest/
+ https://www.statisticssolutions.com/spearman-rank-correlation/

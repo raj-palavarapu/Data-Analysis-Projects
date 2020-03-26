@@ -1,0 +1,5 @@
+https://chrisalbon.com/
+https://machinelearningmastery.com/
+https://machinelearningmastery.com/data-cleaning-turn-messy-data-into-tidy-data/
+www.kaggle.com
+www.analyticsvidhya.com
